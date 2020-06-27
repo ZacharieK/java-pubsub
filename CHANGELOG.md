@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.108.0](https://www.github.com/googleapis/java-pubsub/compare/v1.107.0...v1.108.0) (2020-06-27)
+
+
+### Features
+
+* regenerated to pick up doc changes ([#246](https://www.github.com/googleapis/java-pubsub/issues/246)) ([a5f45ac](https://www.github.com/googleapis/java-pubsub/commit/a5f45ac0ad493856cd5e1743b8df4fc6d70c5ca9))
+* **deps:** adopt flatten plugin and google-cloud-shared-dependencies ([#259](https://www.github.com/googleapis/java-pubsub/issues/259)) ([6b0947b](https://www.github.com/googleapis/java-pubsub/commit/6b0947b0c142691a16190b7d15da136936517e5a))
+* Send streaming pull flow control settings to server ([#267](https://www.github.com/googleapis/java-pubsub/issues/267)) ([9c750c8](https://www.github.com/googleapis/java-pubsub/commit/9c750c8e4899ae994a788c5323fc456ac5d7aa38))
+
+
+### Dependencies
+
+* update autovalue.version to v1.7.3 ([#244](https://www.github.com/googleapis/java-pubsub/issues/244)) ([6af6682](https://www.github.com/googleapis/java-pubsub/commit/6af6682a5c52af1b929634fe210ef342c5625fda))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.8.1 ([#247](https://www.github.com/googleapis/java-pubsub/issues/247)) ([fbceaed](https://www.github.com/googleapis/java-pubsub/commit/fbceaed9701811e3c818fe5696f04936ec447b96))
+
 ## [1.107.0](https://www.github.com/googleapis/java-pubsub/compare/v1.106.0...v1.107.0) (2020-06-09)
 
 
